@@ -11,7 +11,7 @@ Passionate about solving problems, supporting users, and building practical tech
 
 ## 👋 About Me
 
-Mālō e lelei, I’m David — an aspiring IT Support professional based in South Auckland, New Zealand.
+Mālō e lelei, I’m David, an aspiring IT Support professional based in Ōtara, South Auckland, New Zealand.
 
 I have a strong passion for technology, troubleshooting, and automation. Currently interning at Rise by Talent, I focus on building practical solutions and improving workflows through tech.
 
