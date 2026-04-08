@@ -20,6 +20,7 @@ Another goal of mine is continuing to grow my personal brand
 * Hardware troubleshoot
 * Network connectivity
 * Editing videos
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b8626f5e-5e8a-4ba0-912d-a585af9cea81" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 On the road to sit my CompTIA exam
 </b>
