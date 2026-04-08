@@ -43,6 +43,11 @@ On the road to sit my CompTIA exam
 
  <b>Personal projects</b>
 
+ 
+ <h2>Certifications</h2>
+
+ https://www.credly.com/badges/b8626f5e-5e8a-4ba0-912d-a585af9cea81/public_url
+
 <h2> Fun facts about me </h2>
 <b>I'm the youngest of 3</b>
 
