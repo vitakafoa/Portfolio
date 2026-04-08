@@ -69,7 +69,7 @@ Another goal of mine is continuing to grow my personal brand
 
 <b> </b>
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![YouTube](https://img.shields.io/badge/YouTube-kafoa-red?logo=youtube&logoColor=white)](https://www.youtube.com/@kafoa274)
 [![TikTok](https://img.shields.io/badge/TikTok-@kafoa_-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@kafoa_)
