@@ -51,7 +51,7 @@ Another goal of mine is continuing to grow my personal brand
 
  https://www.credly.com/badges/b8626f5e-5e8a-4ba0-912d-a585af9cea81/public_url
 
-<h2> Fun facts </h2>h2>
+<h2> Fun facts </h2>
 <b>I'm the youngest of 3</b>
 
 ## Gaming Content
