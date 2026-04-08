@@ -73,7 +73,7 @@ A glimpse into my creative side, gaming and digital content.
 
 ## 💡 Fun Fact
 
-I’ve always been the person who “breaks things”… but now I fix them and build better solutions 🚀
+I’ve always been the person who “breaks things”… but now I fix them and build better solutions.
 
 ---
 
