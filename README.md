@@ -19,14 +19,14 @@ Another goal of mine is continuing to grow my personal brand
 * AI automation with n8n
 * Hardware troubleshoot
 * Network connectivity
-* Editing videos
+* Video editing and content production using CapCut and Sony Vegas, creating engaging, high-quality digital media.
+* Strong proficiency in Adobe Photoshop and Illustrator, with experience in visual design.
 * Certified in foundational IT and cyber-security support.
 * Build and deploy basic workflow automations using tools like n8n.
 * Work confidently with modern AI tools and guide them effectively through prompt writing.
 * Troubleshoot hardware, mobile devices, and small office network environments.
 * On the pathway to CompTIA A+ certification.
 * Communicate clearly, meet deadlines, and show up accountable in team environments.
-
 </b>
 
  <h2>Projects</h2>
