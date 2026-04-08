@@ -70,8 +70,10 @@ Another goal of mine is continuing to grow my personal brand
 
 <b> </b>
 
-[![YouTube](...)](https://www.youtube.com/@kafoa274)
-[![TikTok](...)](https://www.tiktok.com/@kafoa_)
+## 🌐 Connect with Me
+
+[![YouTube](https://img.shields.io/badge/YouTube-kafoa-red?logo=youtube&logoColor=white)](https://www.youtube.com/@kafoa274)
+[![TikTok](https://img.shields.io/badge/TikTok-@kafoa_-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@kafoa_)
 <!--
 
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
