@@ -31,13 +31,9 @@ Another goal of mine is continuing to grow my personal brand
 
  <h2>Projects</h2>
 
- <b>AI Business Case study</b>
-
-[Presentation](https://www.youtube.com/watch?v=ScMu7SQFmgg])
+[AI Business Case Study](https://www.youtube.com/watch?v=ScMu7SQFmgg])
 
 [Thinking behind it all](https://youtu.be/dvv1CRV0Vqc?si=b7Fy568clMKDgbci])
-
-<b>Skills</b>
 
 [Disassembling and Reassembling Laptop..](https://www.youtube.com/watch?v=coDaesVrejg])
 
