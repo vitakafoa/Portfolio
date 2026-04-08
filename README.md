@@ -66,7 +66,7 @@ Another goal of mine is continuing to grow my personal brand
 ### ▶️ YouTube
 <img src="https://github.com/vitakafoa/CAPSTONE-P/blob/c9eb1ac53e64c228036927f93d651a446f64252d/yt.png" width="300">
 
-
+<b> </b>
 
 [![YouTube](...)](https://www.youtube.com/@kafoa274)
 [![TikTok](...)](https://www.tiktok.com/@kafoa_)
