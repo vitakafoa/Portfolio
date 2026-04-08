@@ -1,4 +1,7 @@
 ![Meow](https://yumove.co.uk/cdn/shop/articles/custom_resized_aa61a8d0-f1dd-45de-9761-29b89220f3e6.jpg?v=1770130043&width=500)
+
+# Tech Enthusiast • IT Support • Content Creator
+
 <h1>Mālō e lelei</h1>
  
  <b>My name is David Kafoa, born and bred in Otara, South Auckland, New Zealand. I'm a Intern at Rise by Talent currently. Ever since I was a kid, I always enjoyed technology, I remember the times I was given a hand me down laptop just for me to play games on. I was known in the house as the person who breaks things all the time, but I didn't like that narrative (although it was true). I see technology as a way to create something great, express yourself.</b>
