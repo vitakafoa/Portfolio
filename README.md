@@ -1,7 +1,7 @@
 <div align="center">
 
 # David Kafoa  
-### Tech Enthusiast • IT Support • Automation Builder  
+### Tech Enthusiast • IT Support • Content Creation
 
 Passionate about solving problems, supporting users, and building practical tech solutions.
 
