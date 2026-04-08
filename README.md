@@ -64,7 +64,7 @@ A glimpse into my creative side — gaming and digital content.
 </a>
 
 <a href="https://www.tiktok.com/@kafoa_">
-  <img src="https://github.com/vitakafoa/CAPSTONE-P/blob/c9eb1ac53e64c228036927f93d651a446f64252d/yt.png" width="200">
+  <img src="https://github.com/vitakafoa/CAPSTONE-P/blob/26c7b85d4e77dd42a8178a592849eca21d6dc6c8/meoww234.jpg" width="200">
 </a>
 
 </div>
