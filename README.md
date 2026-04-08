@@ -57,14 +57,16 @@ Another goal of mine is continuing to grow my personal brand
 
 ## 🎮 Gaming Content
 
+<details>
 ### 📱 TikTok
 <img src="https://github.com/vitakafoa/CAPSTONE-P/blob/ef24bbfe4e5a1483583a5149f124604a37ce1b04/TikTok.jpg" width="300">
-
+</details>
 
 ---
-
+<details>
 ### ▶️ YouTube
 <img src="https://github.com/vitakafoa/CAPSTONE-P/blob/c9eb1ac53e64c228036927f93d651a446f64252d/yt.png" width="300">
+</details>
 
 <b> </b>
 
