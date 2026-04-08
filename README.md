@@ -16,8 +16,6 @@ Another goal of mine is continuing to grow my personal brand
 <h2> Skills </h2>
 
 <b> My experience...
-* AI automation with n8n
-* Hardware troubleshoot
 * Network connectivity
 * Video editing and content production using CapCut and Sony Vegas, creating engaging, high-quality digital media.
 * Strong proficiency in Adobe Photoshop and Illustrator, with experience in visual design.
