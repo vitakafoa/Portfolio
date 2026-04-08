@@ -9,7 +9,7 @@ Passionate about solving problems, supporting users, and building practical tech
 
 ---
 
-## 👋 About Me
+## About Me
 
 Mālō e lelei, I’m David, an aspiring IT Support professional based in Ōtara, South Auckland, New Zealand.
 
@@ -17,7 +17,7 @@ I have a strong passion for technology, troubleshooting, and automation. Current
 
 ---
 
-## 🎯 Career Focus
+## Career Focus
 
 - Entry-level IT Support / Help Desk roles  
 - Service Desk & Technical Support  
@@ -25,7 +25,7 @@ I have a strong passion for technology, troubleshooting, and automation. Current
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - Network Connectivity & Troubleshooting  
 - Hardware & Device Support  
@@ -37,7 +37,7 @@ I have a strong passion for technology, troubleshooting, and automation. Current
 
 ---
 
-## 🚀 Projects
+## Projects
 
 - [AI Business Case Study](https://www.youtube.com/watch?v=ScMu7SQFmgg)  
 - [The Thinking Behind the AI Solution](https://youtu.be/A843c4snX6M)  
@@ -46,14 +46,14 @@ I have a strong passion for technology, troubleshooting, and automation. Current
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - [View Certification](https://www.credly.com/badges/b8626f5e-5e8a-4ba0-912d-a585af9cea81/public_url)  
 - Currently preparing for **CompTIA A+**
 
 ---
 
-## 🎮 Content & Creativity
+## Content & Creativity
 
 A glimpse into my creative side, gaming and digital content.
 
@@ -77,13 +77,13 @@ I create gaming content across multiple platforms, producing short-form videos o
 
 ---
 
-## 💡 Fun Fact
+## Fun Fact
 
 I’ve always been the person who “breaks things”… but now I fix them and build better solutions.
-
+Independently learned and applied skills in Adobe Photoshop and Illustrator.
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Kafoa-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kafoa)
 [![TikTok](https://img.shields.io/badge/TikTok-@kafoa_-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@kafoa_)
