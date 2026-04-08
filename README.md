@@ -51,36 +51,21 @@ On the road to sit my CompTIA exam
 <h2> Fun facts about me </h2>
 <b>I'm the youngest of 3</b>
 
- <h2>Gaming Content</h2>
-<details> 
-  <summary>My TikTok</summary> 
-
-<!-- TikTok Section -->
-
-<img src="https://github.com/vitakafoa/CAPSTONE-P/blob/ef24bbfe4e5a1483583a5149f124604a37ce1b04/TikTok.jpg" width="300">
-</details>
----
-<details>
- <summary>My Youtube</summary> 
- 
-<!-- YouTube Section -->
- 
-<img src="https://github.com/vitakafoa/CAPSTONE-P/blob/c9eb1ac53e64c228036927f93d651a446f64252d/yt.png" width="300">
-
 ## 🎮 Gaming Content
 
 ### 📱 TikTok
 <img src="https://github.com/vitakafoa/CAPSTONE-P/blob/ef24bbfe4e5a1483583a5149f124604a37ce1b04/TikTok.jpg" width="300">
-[![TikTok](...)](https://www.tiktok.com/@kafoa_)
+
 
 ---
 
 ### ▶️ YouTube
 <img src="https://github.com/vitakafoa/CAPSTONE-P/blob/c9eb1ac53e64c228036927f93d651a446f64252d/yt.png" width="300">
+
+
+
 [![YouTube](...)](https://www.youtube.com/@kafoa274)
-
-
-
+[![TikTok](...)](https://www.tiktok.com/@kafoa_)
 <!--
 
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
