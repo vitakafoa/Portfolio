@@ -70,11 +70,13 @@ On the road to sit my CompTIA exam
 ## 🎮 Gaming Content
 
 ### 📱 TikTok
+<img src="https://github.com/vitakafoa/CAPSTONE-P/blob/ef24bbfe4e5a1483583a5149f124604a37ce1b04/TikTok.jpg" width="300">
 [![TikTok](...)](https://www.tiktok.com/@kafoa_)
 
 ---
 
 ### ▶️ YouTube
+<img src="https://github.com/vitakafoa/CAPSTONE-P/blob/c9eb1ac53e64c228036927f93d651a446f64252d/yt.png" width="300">
 [![YouTube](...)](https://www.youtube.com/@kafoa274)
 
 
