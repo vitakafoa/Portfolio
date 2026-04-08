@@ -60,11 +60,11 @@ A glimpse into my creative side — gaming and digital content.
 <div align="center">
 
 <a href="https://www.youtube.com/@kafoa274">
-  <img src="https://raw.githubusercontent.com/vitakafoa/CAPSTONE-P/c9eb1ac53e64c228036927f93d651a446f64252d/yt.png" width="200">
+  <img src="https://github.com/vitakafoa/CAPSTONE-P/blob/ef24bbfe4e5a1483583a5149f124604a37ce1b04/TikTok.jpg" width="200">
 </a>
 
 <a href="https://www.tiktok.com/@kafoa_">
-  <img src="https://raw.githubusercontent.com/vitakafoa/CAPSTONE-P/ef24bbfe4e5a1483583a5149f124604a37ce1b04/TikTok.jpg" width="200">
+  <img src="https://github.com/vitakafoa/CAPSTONE-P/blob/c9eb1ac53e64c228036927f93d651a446f64252d/yt.png" width="200">
 </a>
 
 </div>
