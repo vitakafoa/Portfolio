@@ -55,7 +55,7 @@ Another goal of mine is continuing to grow my personal brand
 <h2> Fun facts about me </h2>
 <b>I'm the youngest of 3</b>
 
-## 🎮 Gaming Content
+## Gaming Content
 
 ### 📱 TikTok
 <details>
