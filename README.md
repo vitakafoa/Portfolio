@@ -1,6 +1,6 @@
 ![Meow](https://yumove.co.uk/cdn/shop/articles/custom_resized_aa61a8d0-f1dd-45de-9761-29b89220f3e6.jpg?v=1770130043&width=500)
 
-## Tech Enthusiast • IT Support • Content Creator
+<b> Tech Enthusiast • IT Support • Content Creator </b>
 
 <h1>Mālō e lelei</h1>
  
