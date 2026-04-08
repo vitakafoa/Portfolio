@@ -85,7 +85,7 @@ I’ve always been the person who “breaks things”… but now I fix them and 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Kafoa-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Kafoa-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kafoa)
 [![TikTok](https://img.shields.io/badge/TikTok-@kafoa_-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@kafoa_)
 [![YouTube](https://img.shields.io/badge/YouTube-kafoa-red?logo=youtube&logoColor=white)](https://www.youtube.com/@kafoa274)
 [![Instagram](https://img.shields.io/badge/Instagram-@vitakafoa-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/vitakafoa)
