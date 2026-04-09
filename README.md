@@ -53,7 +53,7 @@ I have a strong passion for technology, troubleshooting, and automation. Current
 
 ---
 
-## Content & Creativity
+## Content Creation
 
 A glimpse into my creative side, gaming and digital content.
 
