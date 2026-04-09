@@ -17,7 +17,7 @@ I have a strong passion for technology, troubleshooting, and automation. Current
 
 ---
 
-## Career Focus
+## What I'm looking for
 
 - Entry-level IT Support / Help Desk roles  
 - Service Desk & Technical Support  
