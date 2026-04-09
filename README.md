@@ -9,7 +9,7 @@ Passionate about solving problems, supporting users, and building practical tech
 
 ---
 
-## About Me
+## Ko hai au? (Who am I)
 
 Mālō e lelei, I’m David, an aspiring IT Support professional based in Ōtara, South Auckland, New Zealand.
 
