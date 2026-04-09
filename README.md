@@ -42,7 +42,8 @@ I have a strong passion for technology, troubleshooting, and automation. Current
 - [AI Business Case Study](https://www.youtube.com/watch?v=ScMu7SQFmgg)  
 - [The Thinking Behind the AI Solution](https://youtu.be/A843c4snX6M)  
 - [Laptop Disassembly & Reassembly](https://www.youtube.com/watch?v=coDaesVrejg)  
-- [Cisco Packet Tracer Networking](https://youtu.be/dvv1CRV0Vqc?si=b7Fy568clMKDgbci)  
+- [Cisco Packet Tracer Networking](https://youtu.be/dvv1CRV0Vqc?si=b7Fy568clMKDgbci)
+- [I got banana stuck in my laptop...](https://www.youtube.com/watch?v=CJVHchMguog )  
 
 ---
 
