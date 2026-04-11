@@ -90,10 +90,21 @@ I create gaming content across multiple platforms, producing short-form videos o
 
 ---
 
+## Skills in Development
+
+- Learning Python
+- Lua language Roblox
+
+---
+
 ## Fun Fact
 
 <b> I’ve always been the person who “breaks things”… but now I fix them and build better solutions. </b>
 
 <b> Independently learned and applied skills in Adobe Photoshop and Illustrator. </b>
+
+---
+
+
 
 ---
