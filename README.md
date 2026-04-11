@@ -4,7 +4,7 @@
 ### Tech Enthusiast • IT Support • Content Creation
 
 
-Passionate about solving problems, supporting users, and building practical tech solutions.
+I solve problems, support users, build practical tech solutions, and actively grow my personal brand.
 
 </div>
 
