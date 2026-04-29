@@ -82,7 +82,7 @@ I create gaming content across multiple platforms, producing short-form videos o
   <img src="https://github.com/vitakafoa/CAPSTONE-P/blob/26c7b85d4e77dd42a8178a592849eca21d6dc6c8/meoww234.jpg" width="200">
 </a>
 
-<a href="https://www.instagram.com/@vitakafoa">
+<a href="https://www.instagram.com/vitakafoa">
   <img src="https://github.com/vitakafoa/CAPSTONE-P/blob/ab543bcaa88a1259e65ad987073d97885237eaad/unnamed%20(1).jpg" width="200">
 </a>
 
