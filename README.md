@@ -1,7 +1,7 @@
 <div align="center">
 
 # David Kafoa  
-### Tech Enthusiast • IT Support • Content Creation
+### Tech Enthusiast • IT Support • Content Creatior
 
 
 I solve problems, support users, build practical tech solutions, and actively grow my personal brand.
