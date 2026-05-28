@@ -93,7 +93,7 @@ I create gaming content across multiple platforms, producing short-form videos o
 ## Skills in Development
 
 - Learning Python
-- Lua language Roblox
+- Luau roblox
 
 ---
 
