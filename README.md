@@ -61,7 +61,7 @@ I have a strong passion for technology, troubleshooting, and automation. Current
 
 ## Certifications
 
-- [View Certification](https://www.credly.com/badges/b8626f5e-5e8a-4ba0-912d-a585af9cea81/public_url)  
+- [Foundational Certificate in IT & Cyber Security Support](https://www.credly.com/badges/b8626f5e-5e8a-4ba0-912d-a585af9cea81/public_url)  
 - Currently preparing for **CompTIA A+**
 
 ---
