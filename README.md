@@ -102,7 +102,3 @@ I create gaming content across multiple platforms, producing short-form videos o
 <b> I’ve always been the person who “breaks things”… but now I fix them and build better solutions. </b>
 
 ---
-
-
-
----
