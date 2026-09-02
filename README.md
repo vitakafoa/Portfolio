@@ -33,7 +33,6 @@ I have a strong passion for technology, troubleshooting, and automation. Current
 
 - Entry-level IT Support / Help Desk roles  
 - Service Desk & Technical Support  
-- AI Automation & Workflow Optimisation  
 
 ---
 
@@ -63,6 +62,8 @@ I have a strong passion for technology, troubleshooting, and automation. Current
 
 - [Foundational Certificate in IT & Cyber Security Support](https://www.credly.com/badges/b8626f5e-5e8a-4ba0-912d-a585af9cea81/public_url)  
 - [SQL - Joining Data](https://www.datacamp.com/statement-of-accomplishment/course/d62041a2bfce589aa1c1162cd18f1557f2a03618?raw=1)
+
+
 ---
 
 ## Content Creation
@@ -91,16 +92,13 @@ I create gaming content across multiple platforms, producing short-form videos o
 
 ## Skills in Development
 
-- Learning Python
 - SQL foundations
 
 ---
 
-## Fun Fact
+## Ending statement
 
 <b> I’ve always been the person who “breaks things”… but now I fix them and build better solutions. </b>
-
-<b> Independently learned and applied skills in Adobe Photoshop and Illustrator. </b>
 
 ---
 
