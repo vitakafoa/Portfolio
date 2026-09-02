@@ -62,7 +62,7 @@ I have a strong passion for technology, troubleshooting, and automation. Current
 ## Certifications
 
 - [Foundational Certificate in IT & Cyber Security Support](https://www.credly.com/badges/b8626f5e-5e8a-4ba0-912d-a585af9cea81/public_url)  
-- [SQL - Joining Data] (https://www.datacamp.com/statement-of-accomplishment/course/d62041a2bfce589aa1c1162cd18f1557f2a03618?raw=1).
+- [SQL - Joining Data] (https://www.datacamp.com/statement-of-accomplishment/course/d62041a2bfce589aa1c1162cd18f1557f2a03618?raw=1)
 - Currently preparing for **CompTIA A+**
 
 ---
