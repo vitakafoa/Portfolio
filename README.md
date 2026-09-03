@@ -4,7 +4,7 @@
 ### IT Support • Content Creator
 
 
-I solve problems, support users, and actively grow my personal brand.
+I solve problems, support users, and grow my personal brand.
 
 </div>
 
